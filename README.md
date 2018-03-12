@@ -1,0 +1,2 @@
+The app was created as a platform for summer camps to allow admins to manage students and bus drivers.
+THe abb's database was designed using PHP. The app allows students and bus drivers to choose groups that they are assigned. Within these groups the users are able to use a messaging system which uses the database. It allows students and bus drivers to send and receive massages. A GPS system which shows the location of all students who use the app to both the admin and bus drivers is also available. This system uses Google Map application, as well as the database.
