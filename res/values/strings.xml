@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camp Manager Alpha</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="download_complete">Download complete!</string>
+    <string name="fun">Tap me to view the file</string>
+    <string name="exception">EXCEPTION!</string>
+    <string name="downloading">Downloading!</string>
+    <string name="campmanagerconnection">CM client running</string>
+</resources>
